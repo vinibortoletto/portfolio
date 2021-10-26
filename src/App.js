@@ -1,5 +1,4 @@
 import React from 'react';
-import BottomShape from './components/BottomShape/BottomShape';
 import Footer from './components/Footer/Footer';
 
 // Components

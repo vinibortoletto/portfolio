@@ -39,6 +39,7 @@ export const data = {
       title: 'Projetos Recentes',
       cards: [
         {
+          id: 1,
           bg: marinhoBg,
           logo: marinhoLogo,
           description:
@@ -47,6 +48,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/marinho-agropecuaria',
         },
         {
+          id: 2,
           bg: trevisanBg,
           logo: trevisanLogo,
           description:
@@ -56,6 +58,7 @@ export const data = {
         },
 
         {
+          id: 3,
           bg: simplesmenteBg,
           logo: simplesmenteLogo,
           description: 'Roupas minimalistas e sustentáveis.',
@@ -63,6 +66,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/simples-mente',
         },
         {
+          id: 4,
           bg: vitalajudaBg,
           logo: vitalajudaLogo,
           description: 'Serviçoes de assistênte pessoal e ajuda exclusiva.',
@@ -70,6 +74,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/vital-ajuda',
         },
         {
+          id: 5,
           bg: neoBg,
           logo: neoLogo,
           description: 'Criador e desenvedor front-end.',
@@ -77,6 +82,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/neo',
         },
         {
+          id: 6,
           bg: viniBg,
           logo: viniLogo,
           description: 'Ilustrador digital dando vida a ideias.',
@@ -151,6 +157,7 @@ export const data = {
       title: 'Recent Projects',
       cards: [
         {
+          id: 1,
           bg: marinhoBg,
           logo: marinhoLogo,
           description: 'Best quality pet food, acessories and health care.',
@@ -158,6 +165,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/marinho-agropecuaria',
         },
         {
+          id: 2,
           bg: trevisanBg,
           logo: trevisanLogo,
           description:
@@ -166,6 +174,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/ui-clone-viacao-trevisan',
         },
         {
+          id: 3,
           bg: simplesmenteBg,
           logo: simplesmenteLogo,
           description: 'Sustainable and minimalist clothing.',
@@ -173,6 +182,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/simples-mente',
         },
         {
+          id: 4,
           bg: vitalajudaBg,
           logo: vitalajudaLogo,
           description: 'Personal assistant service and expert help.',
@@ -180,6 +190,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/vital-ajuda',
         },
         {
+          id: 5,
           bg: neoBg,
           logo: neoLogo,
           description: 'Front-end web developer portfolio.',
@@ -187,6 +198,7 @@ export const data = {
           github: 'https://github.com/vinibortoletto/neo',
         },
         {
+          id: 6,
           bg: viniBg,
           logo: viniLogo,
           description: 'Digital fantasy artist bringing ideas to life',
