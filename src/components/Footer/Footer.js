@@ -33,12 +33,20 @@ export default function Footer() {
 
       <SocialNetworks>
         <li>
-          <a href="https://github.com/vinibortoletto/">
+          <a
+            href="https://github.com/vinibortoletto/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <AiFillGithub />
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/vinicius-bortoletto/">
+          <a
+            href="https://www.linkedin.com/in/vinicius-bortoletto/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <AiFillLinkedin />
           </a>
         </li>
