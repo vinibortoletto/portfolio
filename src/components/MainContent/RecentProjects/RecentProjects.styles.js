@@ -126,7 +126,7 @@ export const CardBg = styled.img`
   z-index: -2;
 
   object-fit: cover;
-  filter: brightness(0.2);
+  filter: brightness(0.4);
 `;
 
 export const Line = styled.div`
