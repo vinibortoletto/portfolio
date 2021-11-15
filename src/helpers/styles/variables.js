@@ -1,6 +1,6 @@
 export const vars = {
   color: {
-    darkGreen: '#1b201f',
+    darkGreen: '#131313',
     lightGreen: '#00ba89',
     gold: '#cbb28b',
     grey: '#4e6e61',

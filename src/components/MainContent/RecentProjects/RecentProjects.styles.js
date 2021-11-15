@@ -78,6 +78,7 @@ export const Card = styled.div`
   border-left: 5px solid ${vars.color.grey};
   margin-bottom: 2rem;
   transition: 0.2s ease-in-out;
+  z-index: 1;
 
   &:last-of-type {
     margin-bottom: 0;
@@ -125,7 +126,7 @@ export const CardBg = styled.img`
   z-index: -2;
 
   object-fit: cover;
-  opacity: 0.3;
+  filter: brightness(0.2);
 `;
 
 export const Line = styled.div`

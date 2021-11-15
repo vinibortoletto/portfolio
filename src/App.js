@@ -5,6 +5,7 @@ import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
 import MainContent from './components/MainContent/MainContent';
+import StarsBackground from './components/StarsBackground/StarsBackground';
 import TopShape from './components/TopShape/TopShape';
 
 // Contexts
@@ -17,7 +18,7 @@ export default function App() {
   return (
     <DataProvider>
       <GlobalStyles />
-
+      <StarsBackground />
       <Header />
 
       <main>

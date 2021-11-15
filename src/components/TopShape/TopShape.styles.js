@@ -16,7 +16,6 @@ export const Drawing = styled.img`
 
   ${media(500)} {
     opacity: 0.2;
-    filter: saturate(0.6);
   }
 `;
 
