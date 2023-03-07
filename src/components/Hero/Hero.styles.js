@@ -9,7 +9,7 @@ export const Container = styled.section`
 
   display: grid;
   justify-items: center;
-  grid-template-rows: 1fr 1fr 3fr;
+  grid-template-rows: 1fr 0.7fr 3fr;
 
   padding-top: 3rem;
   margin: auto;
@@ -91,8 +91,8 @@ export const Info = styled.div`
 
     ul {
       justify-items: start;
-      grid-template-columns: 1fr 1fr;
-      row-gap: 4rem;
+      /* grid-template-columns: 1fr 1fr; */
+      row-gap: 2rem;
       font-size: 1.2rem;
     }
   }

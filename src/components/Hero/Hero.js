@@ -32,20 +32,12 @@ export default function Hero() {
       <Info>
         <ul>
           <li>
-            <IoLogoWhatsapp />
-            +55 19 98872-4386
-          </li>
-          <li>
             <MdEmail />
             ovinibortoletto@gmail.com
           </li>
           <li>
             <ImLocation />
             {data.hero.location}
-          </li>
-          <li>
-            <FaBirthdayCake />
-            19/08/1993
           </li>
         </ul>
       </Info>
