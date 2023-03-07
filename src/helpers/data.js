@@ -2,22 +2,22 @@ import brFlag from '../images/icons/br-flag.svg';
 import enFlag from '../images/icons/en-flag.svg';
 
 import marinhoBg from '../images/projects/1/bg.jpg';
-import marinhoLogo from '../images/projects/1/logo.svg';
+import marinhoLogo from '../images/projects/1/logo.png';
 
-import trevisanBg from '../images/projects/2/bg.jpg';
-import trevisanLogo from '../images/projects/2/logo.png';
+import tfcBg from '../images/projects/2/bg.png';
+import tfcLogo from '../images/projects/2/logo.svg';
 
 import simplesmenteBg from '../images/projects/3/bg.jpg';
 import simplesmenteLogo from '../images/projects/3/logo.svg';
 
-import vitalajudaBg from '../images/projects/4/bg.jpg';
-import vitalajudaLogo from '../images/projects/4/logo.svg';
+import storeManagerBg from '../images/projects/4/bg.png';
+import storeManagerLogo from '../images/projects/4/logo.svg';
 
-import neoBg from '../images/projects/5/bg.jpg';
-import neoLogo from '../images/projects/5/logo.svg';
+import walletBg from '../images/projects/5/bg.png';
+import walletLogo from '../images/projects/5/logo.png';
 
-import viniBg from '../images/projects/6/bg.jpg';
-import viniLogo from '../images/projects/6/logo.svg';
+import blogBg from '../images/projects/6/bg.jpg';
+import blogLogo from '../images/projects/6/logo.svg';
 
 export const data = {
   br: {
@@ -49,14 +49,13 @@ export const data = {
         },
         {
           id: 2,
-          bg: trevisanBg,
-          logo: trevisanLogo,
+          bg: tfcBg,
+          logo: tfcLogo,
           description:
-            'Logística e soluções para transportes públicos e rodoviários.',
-          website: 'https://viacao-trevisan.netlify.app/',
-          github: 'https://github.com/vinibortoletto/ui-clone-viacao-trevisan',
+            'Uma aplicação fullstack onde é possível pesquisar, adicionar e editar partidas e times de futebol.',
+          website: 'https://github.com/vinibortoletto/trybe-futebol-clube',
+          github: 'https://github.com/vinibortoletto/trybe-futebol-clube',
         },
-
         {
           id: 3,
           bg: simplesmenteBg,
@@ -67,27 +66,27 @@ export const data = {
         },
         {
           id: 4,
-          bg: vitalajudaBg,
-          logo: vitalajudaLogo,
-          description: 'Serviçoes de assistênte pessoal e ajuda exclusiva.',
-          website: 'https://vital-ajuda.netlify.app/',
-          github: 'https://github.com/vinibortoletto/vital-ajuda',
+          bg: storeManagerBg,
+          logo: storeManagerLogo,
+          description: 'Uma API RESTful para um sistema de gerenciamento de vendas.',
+          website: 'https://github.com/vinibortoletto/store-manager',
+          github: 'https://github.com/vinibortoletto/store-manager',
         },
         {
           id: 5,
-          bg: neoBg,
-          logo: neoLogo,
-          description: 'Criador e desenvedor front-end.',
-          website: 'https://neo-dev.netlify.app/',
-          github: 'https://github.com/vinibortoletto/neo',
+          bg: walletBg,
+          logo: walletLogo,
+          description: 'Uma carteira de gerenciamento de gastos.',
+          website: 'https://github.com/vinibortoletto/trybe-wallet',
+          github: 'https://github.com/vinibortoletto/trybe-wallet',
         },
         {
           id: 6,
-          bg: viniBg,
-          logo: viniLogo,
-          description: 'Ilustrador digital dando vida a ideias.',
-          website: 'https://ilustrador-digital.netlify.app/',
-          github: 'https://github.com/vinibortoletto/ilustrador-digital',
+          bg: blogBg,
+          logo: blogLogo,
+          description: 'Uma API RESTful para a produção de conteúdo para um blog.',
+          website: 'https://github.com/vinibortoletto/blogs-api',
+          github: 'https://github.com/vinibortoletto/blogs-api',
         },
       ],
       buttonsText: {
@@ -169,50 +168,51 @@ export const data = {
           id: 1,
           bg: marinhoBg,
           logo: marinhoLogo,
-          description: 'Best quality pet food, acessories and health care.',
+          description:
+            'Melhor qualidade em rações, acessórios e cuidados para animais.',
           website: 'https://marinho-agropecuaria.netlify.app/',
           github: 'https://github.com/vinibortoletto/marinho-agropecuaria',
         },
         {
           id: 2,
-          bg: trevisanBg,
-          logo: trevisanLogo,
+          bg: tfcBg,
+          logo: tfcLogo,
           description:
-            'Logistics and solutions for public and road transportation.',
-          website: 'https://viacao-trevisan.netlify.app/',
-          github: 'https://github.com/vinibortoletto/ui-clone-viacao-trevisan',
+            'Uma aplicação fullstack onde é possível pesquisar, adicionar e editar partidas e times de futebol.',
+          website: 'https://github.com/vinibortoletto/trybe-futebol-clube',
+          github: 'https://github.com/vinibortoletto/trybe-futebol-clube',
         },
         {
           id: 3,
           bg: simplesmenteBg,
           logo: simplesmenteLogo,
-          description: 'Sustainable and minimalist clothing.',
+          description: 'Roupas minimalistas e sustentáveis.',
           website: 'https://simplesmente.netlify.app/',
           github: 'https://github.com/vinibortoletto/simples-mente',
         },
         {
           id: 4,
-          bg: vitalajudaBg,
-          logo: vitalajudaLogo,
-          description: 'Personal assistant service and expert help.',
-          website: 'https://vital-ajuda.netlify.app/',
-          github: 'https://github.com/vinibortoletto/vital-ajuda',
+          bg: storeManagerBg,
+          logo: storeManagerLogo,
+          description: 'Uma API RESTful para um sistema de gerenciamento de vendas.',
+          website: 'https://github.com/vinibortoletto/store-manager',
+          github: 'https://github.com/vinibortoletto/store-manager',
         },
         {
           id: 5,
-          bg: neoBg,
-          logo: neoLogo,
-          description: 'Front-end web developer portfolio.',
-          website: 'https://neo-dev.netlify.app/',
-          github: 'https://github.com/vinibortoletto/neo',
+          bg: walletBg,
+          logo: walletLogo,
+          description: 'Uma carteira de gerenciamento de gastos.',
+          website: 'https://github.com/vinibortoletto/trybe-wallet',
+          github: 'https://github.com/vinibortoletto/trybe-wallet',
         },
         {
           id: 6,
-          bg: viniBg,
-          logo: viniLogo,
-          description: 'Digital fantasy artist bringing ideas to life',
-          website: 'https://ilustrador-digital.netlify.app/',
-          github: 'https://github.com/vinibortoletto/ilustrador-digital',
+          bg: blogBg,
+          logo: blogLogo,
+          description: 'Uma API RESTful para a produção de conteúdo para um blog.',
+          website: 'https://github.com/vinibortoletto/blogs-api',
+          github: 'https://github.com/vinibortoletto/blogs-api',
         },
       ],
       buttonsText: {
