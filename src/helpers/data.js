@@ -32,7 +32,7 @@ export const data = {
     },
     hero: {
       avatarAlt: 'ilustração de vinicius bortoletto',
-      profession: 'Desenvolvedor Front-End',
+      profession: 'Desenvolvedor Web Fullstack',
       location: 'Piracicaba | São Paulo | Brasil',
     },
     recentProjects: {
@@ -150,7 +150,7 @@ export const data = {
     hero: {
       avatarAlt: 'cartoon illustration of vinicius bortoletto',
 
-      profession: 'Front-End Developer',
+      profession: 'Fullstack Web Developer',
       location: 'Piracicaba | São Paulo | Brazil',
     },
     recentProjects: {
