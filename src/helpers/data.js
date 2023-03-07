@@ -108,7 +108,7 @@ export const data = {
           id: 2,
           title: 'Back-end',
           description:
-            'Docker, MySQL, Sequelize, Node.js, Mocha, Chai, Sinon, TDD, Express.js, TypeScript, SOLID, POO, MongoDB e NoSQL.',
+            'Docker, MySQL, Sequelize, Node.js, API RESTful, Mocha, Chai, Sinon, TDD, Express.js, TypeScript, SOLID, POO, MongoDB e NoSQL.',
         },
         {
           id: 3,
@@ -230,7 +230,7 @@ export const data = {
           id: 2,
           title: 'Back-end',
           description:
-            'Docker, MySQL, Sequelize, Node.js, Mocha, Chai, Sinon, TDD, Express.js, TypeScript, SOLID, POO, MongoDB and NoSQL.',
+            'Docker, MySQL, Sequelize, Node.js, API RESTful, Mocha, Chai, Sinon, TDD, Express.js, TypeScript, SOLID, POO, MongoDB and NoSQL.',
         },
         {
           id: 3,
