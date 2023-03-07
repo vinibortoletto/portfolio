@@ -15,7 +15,10 @@ export default function AboutMe() {
   return (
     <Container className="about-me">
       <Title>{data.aboutMe.title}</Title>
-      <p>{data.aboutMe.description}</p>
+      
+      {data.aboutMe.description.map((item, index) => (
+        <p key={index}>{item}</p>
+      ))}
     </Container>
   );
 }

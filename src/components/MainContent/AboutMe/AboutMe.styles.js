@@ -14,6 +14,7 @@ export const Container = styled.section`
 
     p {
       max-width: none;
+      margin-bottom: 1rem;
     }
   }
 `;

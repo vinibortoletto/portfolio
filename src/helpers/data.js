@@ -126,8 +126,11 @@ export const data = {
     },
     aboutMe: {
       title: 'Sobre Mim',
-      description:
-        'Após atuar por cerca de 5 anos como ilustrador, trabalhando com clientes ao redor do mundo, descrobri um interesse pela programação e tecnologia, e decidi mergulhar definitivamente neste mundo.',
+      description: [
+        'Comecei minha jornada como Técnico em Informática, formado pela escola SENAC, onde fui apresentado ao mundo da tecnologia, porém sempre fui uma pessoa muito criativa, desenhando e escrevendo histórias, por isso decidi ir para outra área e trabalhei alguns anos como ilustrador digital, tento à oportunidade de atender clientes internacionais, o que me permitiu desenvolver minha criatividade, meu inglês e habilidades importantes na área de negócios.',
+        
+        'Passado alguns anos, a ilustração já não me animava mais, então resolvi buscar novos desafios e voltei para área de tecnologia, e hoje sou estudante de desenvolvimento web full-stack, formando pela escola Trybe. Lá, descobri na programação a possibilidade de continuar exercendo minha criatividade na criação de códigos. Também fiz parte dos VolunTrybers, uma iniciativa onde auxiliávamos outros colegas estudantes com dificuldades, o que me ensinou habilidades socio-emocionais importantes, como comunicação assertiva, empatia, escuta ativa, além de colaboração, resiliência e resolução de problemas através de diversos trabalhos em equipe.'
+      ],
     },
     footer: {
       logoAlt: 'Logo de Vinicius Bortoletto',
@@ -248,8 +251,11 @@ export const data = {
     },
     aboutMe: {
       title: 'About Me',
-      description:
-        'After working for about 5 years as a digital artist, working with clients around the globe, I discover an interest for coding and technologies, and so I decided to dive in to this world.',
+      description: [
+        `I started my journey as a Computer Technician, graduated from SENAC school, where I was introduced to the world of technology. However, I've always been a very creative person, drawing and writing stories, so I decided to switch to another area and worked for a few years as a digital illustrator, having the opportunity to serve international clients, which allowed me to develop my creativity, English skills, and important business skills.`,
+        
+       `After some years, illustration didn't excite me anymore, so I decided to seek new challenges and returned to the technology field. Today, I'm a full-stack web development student at Trybe school. There, I discovered the possibility of continuing to exercise my creativity in code creation. I also participated in VolunTrybers, an initiative where we assisted other student colleagues with difficulties, which taught me important socio-emotional skills such as assertive communication, empathy, active listening, collaboration, resilience, and problem-solving through various team projects.`
+      ],
     },
     footer: {
       logoAlt: "Vinicius Bortoletto's logo",
