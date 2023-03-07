@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Icons
-import { AiFillGithub, AiFillLinkedin, AiFillMail } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { FaFileDownload } from 'react-icons/fa';
 
 // Components
@@ -48,15 +48,6 @@ export default function Footer() {
             rel="noopener noreferrer"
           >
             <AiFillLinkedin />
-          </a>
-        </li>
-        <li>
-          <a
-            href="mailto:ovinibortoletto@gmail.com?subject=website contact"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <AiFillMail />
           </a>
         </li>
       </SocialNetworks>
