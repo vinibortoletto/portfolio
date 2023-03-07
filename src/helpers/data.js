@@ -100,18 +100,24 @@ export const data = {
       sections: [
         {
           id: 1,
-          title: 'Linguagens',
+          title: 'Front-end',
           description:
-            'HTML5, CSS3 (SASS, LESS, TailwindCSS, Bulma, BEM) e JavaScript (ES6, React.js).',
+            'HTML5, CSS3, TailwindCSS, JavaScript, React.js, Redux, Context API, React Testing Library, React Hooks, e Styled Component.',
         },
         {
           id: 2,
-          title: 'Ferramentas',
+          title: 'Back-end',
           description:
-            'Visual Studio Code, GIT, Gulp, Figma, Adobe Photoshop, Procreate e Linux.',
+            'Docker, MySQL, Sequelize, Node.js, Mocha, Chai, Sinon, TDD, Express.js, TypeScript, SOLID, POO, MongoDB e NoSQL.',
         },
         {
           id: 3,
+          title: 'Ferramentas',
+          description:
+            'Git, Bash, Linux, SCRUM, Kanban, Visual Studio Code, Figma, Adobe Photoshop e Procreate.',
+        },
+        {
+          id: 4,
           title: 'Idiomas',
           description:
             'Português (nativo), Inglês (avançado) e Francês (intermediário).',
@@ -216,18 +222,24 @@ export const data = {
       sections: [
         {
           id: 1,
-          title: 'Languages',
+          title: 'Front-end',
           description:
-            'HTML5, CSS3 (SASS, LESS, TailwindCSS, Bulma, BEM) and JavaScript (ES6, React.js).',
+            'HTML5, CSS3, TailwindCSS, JavaScript, React.js, Redux, Context API, React Testing Library, React Hooks, and Styled Component.'
         },
         {
           id: 2,
-          title: 'Tools',
+          title: 'Back-end',
           description:
-            'Visual Studio Code, GIT, Gulp, Figma, Adobe Photoshop, Procreate and Linux.',
+            'Docker, MySQL, Sequelize, Node.js, Mocha, Chai, Sinon, TDD, Express.js, TypeScript, SOLID, POO, MongoDB and NoSQL.',
         },
         {
           id: 3,
+          title: 'Tools',
+          description:
+            'Git, Bash, Linux, SCRUM, Kanban, Visual Studio Code, Figma, Adobe Photoshop and Procreate.',
+        },
+        {
+          id: 5,
           title: 'Speaking Languages',
           description:
             'Portuguese (native), English (advanced) and French (intermediate).',
