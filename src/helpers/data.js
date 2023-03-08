@@ -77,7 +77,7 @@ export const data = {
           bg: walletBg,
           logo: walletLogo,
           description: 'Uma carteira de gerenciamento de gastos.',
-          website: 'https://github.com/vinibortoletto/trybe-wallet',
+          website: 'https://vini-trybe-wallet.vercel.app/',
           github: 'https://github.com/vinibortoletto/trybe-wallet',
         },
         {
@@ -203,7 +203,7 @@ export const data = {
           bg: walletBg,
           logo: walletLogo,
           description: 'Uma carteira de gerenciamento de gastos.',
-          website: 'https://github.com/vinibortoletto/trybe-wallet',
+          website: 'https://vini-trybe-wallet.vercel.app/',
           github: 'https://github.com/vinibortoletto/trybe-wallet',
         },
         {
