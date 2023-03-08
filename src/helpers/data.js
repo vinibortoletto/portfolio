@@ -25,7 +25,7 @@ export const data = {
       logoAlt: 'logo de vinicius bortoletto',
       downloadButton: {
         text: 'Baixar currículo',
-        link: 'https://drive.google.com/file/d/1uZ0h6AinxlDH92f5HDnQW0RjFzbfEK0y/view?usp=sharing',
+        link: 'https://drive.google.com/file/d/1vgRBhcJOYDwg-JNX2UIWzPwQCZ6dLtIu/view?usp=sharing',
       },
       flag: enFlag,
       flagAlt: 'click to change website language to english.',
@@ -135,7 +135,7 @@ export const data = {
       logoAlt: 'Logo de Vinicius Bortoletto',
       downloadButton: {
         text: 'Baixar currículo',
-        link: 'https://drive.google.com/file/d/1uZ0h6AinxlDH92f5HDnQW0RjFzbfEK0y/view?usp=sharing',
+        link: 'https://drive.google.com/file/d/1vgRBhcJOYDwg-JNX2UIWzPwQCZ6dLtIu/view?usp=sharing',
       },
       copyright: 'Criado e desenvolvido por',
     },
@@ -150,7 +150,7 @@ export const data = {
       logoAlt: "vinicius bortoletto's logo",
       downloadButton: {
         text: 'Download CV',
-        link: 'https://drive.google.com/file/d/1xq0ln4_tRLY_36hW3P2mauOFKVSU3L5A/view?usp=sharing',
+        link: 'https://drive.google.com/file/d/1jA3ZPZkKSainXvPjEAGbb7WMtk3ZHTJZ/view?usp=sharing',
       },
       flag: brFlag,
       flagAlt: 'clique para mudar o idioma do site para português.',
@@ -261,7 +261,7 @@ export const data = {
       logoAlt: "Vinicius Bortoletto's logo",
       downloadButton: {
         text: 'Download CV',
-        link: 'https://drive.google.com/file/d/1xq0ln4_tRLY_36hW3P2mauOFKVSU3L5A/view?usp=sharing',
+        link: 'https://drive.google.com/file/d/1jA3ZPZkKSainXvPjEAGbb7WMtk3ZHTJZ/view?usp=sharing',
       },
       copyright: 'Created and designed by',
     },
