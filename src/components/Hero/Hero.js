@@ -1,10 +1,8 @@
 import React from 'react';
 
 // Icons
-import { IoLogoWhatsapp } from 'react-icons/io';
 import { MdEmail } from 'react-icons/md';
 import { ImLocation } from 'react-icons/im';
-import { FaBirthdayCake } from 'react-icons/fa';
 
 // Images
 import avatar from '../../images/illustrations/avatar.svg';
